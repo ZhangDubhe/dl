@@ -57,7 +57,7 @@ IMAGES_MAP_1 = {
     "Mandala of Achala-Chandamaharoshana_90915": "https://har-assets.s3.amazonaws.com/tiles/9/0/9/90915/5",
     "Mandala of Hevajra_88537": "https://har-assets.s3.amazonaws.com/tiles/8/8/5/88537/5",
     "Mandala of Hayagriva (Buddhist Deity) - Heruka_50088": "https://har-assets.s3.amazonaws.com/tiles/5/0/0/50088/3",
-    "Mandala of Chakrasamvara_100012": "valuehttps://har-assets.s3.amazonaws.com/tiles/1/0/0/100012/5"
+    "Mandala of Chakrasamvara_100012": "https://har-assets.s3.amazonaws.com/tiles/1/0/0/100012/5"
 }
 
 
@@ -66,8 +66,8 @@ IMAGES_MAP_2 = {
     "Mandala of Mandala_66706": "https://har-assets.s3.amazonaws.com/tiles/6/6/7/66706/3",
     "Mandala of Guhyasamaja (Buddhist Deity) - Akshobhyavajra_100204": "https://har-assets.s3.amazonaws.com/tiles/1/0/0/100204/3",
     "Mandala of Chandra (Moon God)_100016": "https://har-assets.s3.amazonaws.com/tiles/1/0/0/100016/5",
-    "Avalokiteshvara (Bodhisattva & Buddhist Deity) - Chintamani (Standing with Tree) _19812": "valuehttps://har-assets.s3.amazonaws.com/tiles/1/9/8/19812/4",
-    "Thirty-Three_47441": "valuehttps://har-assets.s3.amazonaws.com/tiles/4/7/4/47441/4"
+    "Avalokiteshvara (Bodhisattva & Buddhist Deity) - Chintamani (Standing with Tree) _19812": "https://har-assets.s3.amazonaws.com/tiles/1/9/8/19812/4",
+    "Thirty-Three_47441": "https://har-assets.s3.amazonaws.com/tiles/4/7/4/47441/4"
 }
 
 
